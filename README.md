@@ -1,2 +1,2 @@
-# text-card
+# https://eleanorex.github.io/text-card/
  
