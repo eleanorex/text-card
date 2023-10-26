@@ -115,12 +115,12 @@ li {
 
 [api] {
     display: flex;
-width: 247px;
-align-items: center;
-border-radius: 5px;
-background: #F1F2FF;
-height: 44px;
-justify-content: center;
+    width: 247px;
+    align-items: center;
+    border-radius: 5px;
+    background: #F1F2FF;
+    height: 44px;
+    justify-content: center;
 }
 
 section {
@@ -129,19 +129,19 @@ section {
 
 [res] {
     color: #6F7189;
-font-family: Poppins;
-font-size: 14px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-text-transform: uppercase;
-width: 81.563px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 81.563px;
 }
 
 .a {
     margin: -30px;
 }
 
-.b  {
+.b {
     margin-bottom: 30px;
 }
